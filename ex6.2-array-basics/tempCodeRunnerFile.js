@@ -1,2 +1,0 @@
-people.shift();
-people.shift();
