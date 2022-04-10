@@ -1,0 +1,2 @@
+people.shift();
+people.shift();
